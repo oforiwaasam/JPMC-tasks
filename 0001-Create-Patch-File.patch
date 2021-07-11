@@ -1,0 +1,29 @@
+From 52d1824214c0b96ac8efff8c02a0ad3acad6792d Mon Sep 17 00:00:00 2001
+From: lily_sam <los2119@columbia.edu>
+Date: Tue, 4 May 2021 03:23:22 -0400
+Subject: [PATCH] Create Patch File
+
+---
+ JPMC-tech-task-1     | 1 +
+ JPMC-tech-task-1-py3 | 1 +
+ 2 files changed, 2 insertions(+)
+ create mode 160000 JPMC-tech-task-1
+ create mode 160000 JPMC-tech-task-1-py3
+
+diff --git a/JPMC-tech-task-1 b/JPMC-tech-task-1
+new file mode 160000
+index 0000000..9629292
+--- /dev/null
++++ b/JPMC-tech-task-1
+@@ -0,0 +1 @@
++Subproject commit 96292924e731bb221f3f139b86a1d1845dd1a631
+diff --git a/JPMC-tech-task-1-py3 b/JPMC-tech-task-1-py3
+new file mode 160000
+index 0000000..3614329
+--- /dev/null
++++ b/JPMC-tech-task-1-py3
+@@ -0,0 +1 @@
++Subproject commit 36143294b216b7210e2ee5948c78725503a5b7ca
+-- 
+2.31.1
+
